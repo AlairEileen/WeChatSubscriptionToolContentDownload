@@ -13,7 +13,7 @@
 
 也希望大家用的好的也给我些资助，谢谢大家！！！
 
-![image](https://github.com/AlairEileen/WeChatSubscriptionTool/blob/master/Resources/Resources/AppTheme1.png)
+![image](https://github.com/AlairEileen/WeChatSubscriptionToolContentDownload/blob/master/Resources/Resources/Screenshot%20(3).png)
 
 ![image](https://github.com/AlairEileen/AlairSpace/blob/master/Resources/WeChatCode.jpg)
 
